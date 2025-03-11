@@ -24,7 +24,6 @@ class Circle {
         System.out.println("Radius: " + radius);
         System.out.println("Area: " + getArea());
         System.out.println("Circumference: " + getCircumference());
-        System.out.println("-------------------------");
     }
 
     public static void main(String[] args) {
